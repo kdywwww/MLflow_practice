@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kdyww/PycharmProjects/MLflow_practice/mlruns/0/18367c20a11d4ac5a6ff00beb4ac1e2c/artifacts
+end_time: 1676860135192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18367c20a11d4ac5a6ff00beb4ac1e2c
+run_name: popular-skunk-205
+run_uuid: 18367c20a11d4ac5a6ff00beb4ac1e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860135098
+status: 3
+tags: []
+user_id: kdyww
